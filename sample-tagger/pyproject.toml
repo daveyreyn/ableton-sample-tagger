@@ -1,0 +1,13 @@
+[project]
+name = "sample-tagger"
+version = "0.1.0"
+requires-python = ">=3.12"
+dependencies = [
+    "joblib>=1.6.0",
+    "librosa>=1.0.0",
+    "numpy>=2.5.3",
+    "panns-inference>=0.1.1",
+    "scikit-learn>=1.9.1",
+    "scipy>=1.18.1",
+    "torch>=2.14.1",
+]

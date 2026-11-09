@@ -1,0 +1,14 @@
+# Ableton Extensions SDK beta: licensed, not redistributable
+extensions-sdk-1.0.0-beta.1/
+
+.DS_Store
+node_modules/
+dist/
+vendor/
+.venv/
+__pycache__/
+data/
+.env
+*.log
+*.ablx
+*.tsbuildinfo
